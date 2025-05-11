@@ -12,7 +12,7 @@
 
 💻 Contribuição: Graduandos "unespianos" de Ciências da Computação, participantes semestrais do PAEG
 
-📋 Nosso principal objetivo é disseminar e aprofundar o conhecimento sobre aprendizado de máquina, levando o que for produzido da faculdade para a comunidade. 
+📋 Nosso principal objetivo é disseminar e aprofundar o conhecimento sobre aprendizado de máquina, levando aquilo que é produzido na faculdade para a comunidade. 
 
 ##
 </br>
