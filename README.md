@@ -1,18 +1,25 @@
-# Olá 👋, somos o EducaML.
+# Olá 👋
 
-📌 Projeto de extensão
+### 📌 O que somos?
+  Somos o Educa-ML, um projeto de extensão universitário.
 
-📍 Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP - Rio Claro)
+### 📍 De onde?
+  Da Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP - Rio Claro).
 
-📚 Ciências da Computação
+### 📚 De que curso?
+  Ciências da Computação.
 
-⌛ Criado em 2025
+### ⌛ Quando o projeto foi criado?
+  Em 2025.
 
-💡 Idealizado e coordenado por: Profª Veronica Oliveira de Carvalho
+### 💡 Quem idealizou e é responsável pelo projeto?
+  Profª Veronica Oliveira de Carvalho.
 
-💻 Contribuição: Graduandos "unespianos" de Ciências da Computação, participantes semestrais do PAEG
+### 💻 Quem pode contribuir com o projeto? 
+  Graduandos "unespianos" de Ciências da Computação.
 
-📋 Nosso principal objetivo é disseminar e aprofundar o conhecimento sobre aprendizado de máquina, levando aquilo que é produzido na faculdade para a comunidade. 
+### 📋 Qual nosso objetivo?
+  Disseminar e aprofundar o conhecimento sobre aprendizado de máquina, levando aquilo que é produzido na faculdade para a comunidade. 
 
 ##
 </br>
@@ -31,4 +38,7 @@
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+
+##
+![](https://komarev.com/ghpvc/?username=Educa-ML&style=for-the-badge&label=VISITAS&abbreviated=true&color=blueviolet)
 
