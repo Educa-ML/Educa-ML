@@ -1,4 +1,4 @@
-# Olá 👋
+# Olá, pessoal.👋
 
 ### 📌 O que somos?
   Somos o Educa-ML, um projeto de extensão universitário.
@@ -12,14 +12,19 @@
 ### ⌛ Quando o projeto foi criado?
   Em 2025.
 
+### 📋 Com qual objetivo?
+  Disseminar e aprofundar o conhecimento sobre <b>Aprendizado de Máquina</b>, levando aquilo que é produzido na faculdade para a comunidade. 
+
 ### 💡 Quem idealizou e é responsável pelo projeto?
   Profª Veronica Oliveira de Carvalho.
 
 ### 💻 Quem pode contribuir com o projeto? 
   Graduandos "unespianos" de Ciências da Computação.
 
-### 📋 Qual nosso objetivo?
-  Disseminar e aprofundar o conhecimento sobre aprendizado de máquina, levando aquilo que é produzido na faculdade para a comunidade. 
+### 🎯 Como faremos isso?
+  Através de vídeo-aulas que serão disponibilizadas via YouTube, com repositório armazenado neste perfil do GitHub, com divulgação via Instagram e LinkedIn.
+
+  > Também serão oferecidos cursos relacionados a Aprendizado de Máquina, síncronamente, no futuro.
 
 ##
 </br>
@@ -34,7 +39,7 @@
 <a href="https://youtube.com/@Educa_ML" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/Educa-ML/" target="_blank">
    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
