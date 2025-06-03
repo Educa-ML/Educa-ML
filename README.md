@@ -1,30 +1,38 @@
-# Olá, pessoal.👋
+# Olá👋
 
-### 📌 O que somos?
-  Somos o Educa-ML, um projeto de extensão universitário.
+### 📌 Quem somos?
+  Somos o Educa-ML, um projeto de extensão universitária
 
 ### 📍 De onde?
-  Da Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP - Rio Claro).
+  Da Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP), Rio Claro
 
 ### 📚 De que curso?
-  Ciências da Computação.
+  Ciências da Computação
 
 ### ⌛ Quando o projeto foi criado?
-  Em 2025.
+  Em 2025
 
 ### 📋 Com qual objetivo?
-  Disseminar e aprofundar o conhecimento sobre <b>Aprendizado de Máquina</b>, levando aquilo que é produzido na faculdade para a comunidade. 
+  Disseminar e aprofundar o conhecimento sobre <b>Aprendizado de Máquina</b>, levando aquilo que é produzido na universidade para a comunidade
 
-### 💡 Quem idealizou e é responsável pelo projeto?
-  Profª Veronica Oliveira de Carvalho.
+### 💡 Professor responsável
+  Profª Veronica Oliveira de Carvalho
+
+### 👤 Colaboradoes permanentes
+  Prof Daniel Carlos Guimarães Pedronette, Prof Frank Jose Affonso, Maicon Dall'Agnol
+
+### 👥 Demais colaboradores 
+- 1º semestre - 2025
+  - Caio Lucci Schnor
+  - Jeferson Patrick Dietrich Filho
+  - Otto Jacometo
 
 ### 💻 Quem pode contribuir com o projeto? 
-  Graduandos "unespianos" de Ciências da Computação.
+  Graduandos "UNESPianos" de Ciências da Computação
 
 ### 🎯 Como faremos isso?
-  Através de vídeo-aulas que serão disponibilizadas via YouTube, com repositório armazenado neste perfil do GitHub, com divulgação via Instagram e LinkedIn.
+  Por meio do oferecimento de palestras e cursos presenciais e/ou virtuais, além de conteúdos online
 
-  > Também serão oferecidos cursos relacionados a Aprendizado de Máquina, síncronamente, no futuro.
 
 ##
 </br>
@@ -38,9 +46,6 @@
 </a>
 <a href="https://youtube.com/@Educa_ML" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/Educa-ML/" target="_blank">
-   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 
